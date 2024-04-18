@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Alien : MonoBehaviour, IDamageable
+public class Alien : MonoBehaviour, Damage
 {
     [SerializeField] private GameObject enemyShipPrefab;
     [SerializeField] private Detonator explosionPrefab;
