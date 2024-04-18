@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public interface IDamageable
+public interface Damage
 {
     public void TakeDamage(int damage, Vector3 hitPosition);
 }
