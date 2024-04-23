@@ -5,6 +5,7 @@ Embark on an epic journey through the cosmos with 'ANTARIKSH' – the ultimate U
 
 SHIP CONTROLS:-
 Press 1: Switch to Cockpit View
+
 Press 2: Switch to Space View
 W: Move forward
 A: Move left
